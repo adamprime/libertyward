@@ -6,7 +6,5 @@ description: "A congregation of the Church of Jesus Christ of Latter-day Saints"
 
 ## Calendar and upcoming events
 
-- 2019/01/13 (Sun.), 9 am - Ward Conference 
-- 2019/01/19 (Sat.), 8-11 pm - Interfaith Youth Dance @ Liberty Stake Center
-- 2019/02/05-09 - Ward Temple Week
+<script src="https://gist.github.com/adamprime/cf67957adb6d8fa752a0c90550b61e05.js"></script>
 
