@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/static/liberty-ward-favicon.ico"
+  favicon = "static/liberty-ward-favicon.ico"
   description = "The last theme you'll ever need. Maybe."
   facebook = ""
   twitter = ""
