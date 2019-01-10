@@ -2,7 +2,7 @@
 date: 2019-01-01
 description: "Mid-Singles Activities"
 featured_image: ""
-tags: []
+tags: [Mid-Singles]
 title: "Mid-Singles Activities"
 ---
 
