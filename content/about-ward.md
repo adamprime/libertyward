@@ -10,31 +10,11 @@ menu:
 
 ## Bishopric
 
-| Name            	| Calling                         	| Contact Information               	|
-|-----------------	|---------------------------------	|-----------------------------------	|
-| Ryan Wheeler    	| Bishop                          	| egnaro@gmail.com                  	|
-| Wiley Meade     	| First Counselor                 	| lbrghthnd@gmail.com               	|
-| James Bergin    	| Second Counselor                	| jabergin@gmail.com                	|
-| Brayden Willis  	| Executive Secretary             	| bwillislds@gmail.com 509-760-0184 	|
-| Jonathan Dawson 	| Ward Clerk                      	| libertywardclerk@gmail.com        	|
-| James Lehnardt  	| Membership Clerk                	| jlehnardt@hotmail.com             	|
-| Cameron Meyer   	| Finance Clerk                   	| camerongmeyer@gmail.com           	|
+<script src="https://gist.github.com/adamprime/a149e4e052e001867f065b6e908bdcb7.js"></script>
 
 ## Auxiliary Presidents and Ward Leaders
 
-| Name              	| Calling                            	| Contact Information          	|
-|-------------------	|------------------------------------	|------------------------------	|
-| Aaron Blanch      	| Elders Quorum President            	| aceaj89@gmail.com            	|
-| Sue Thorne        	| Relief Society President           	| norasuethorne@hotmail.com    	|
-| Adam Tervort      	| Young Men President                	| adam@adamtervort.com         	|
-| Heather Dubon     	| Young Women President              	| heatherdubon2@gmail.com      	|
-| Ashleigh Johnston 	| Primary President                  	| alpalmer8@gmail.com          	|
-| Dale Marcell      	| Sunday School President            	| dale.marcell@gmail.com       	|
-| Christian Untch   	| Ward Employment Specialist         	| es.christianuntch@gmail.com  	|
-| Bill Litster      	| Ward Mission Leader                	| bill@pfskc.com               	|
-| Lou Anne Mallory  	| Temple & Family History Consultant 	| thisisannielou1940@gmail.com 	|
-| Karl Krauss       	| Temple & Family History Consultant 	| brotherkrauss@gmail.com      	|
-| Catherine Krauss  	| Temple & Family History Consultant 	| cathkrauss@gmail.com         	|
+<script src="https://gist.github.com/adamprime/e628c517c65a21dbcefa54f026a9bdd5.js"></script>
 
 ## Full Time Missionaries
 
