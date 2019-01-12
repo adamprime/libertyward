@@ -44,4 +44,4 @@ This blessing I leave with you, in Jesus Christ’s name. Amen.
 
 ## Ward Plan Presentation
 
-<iframe src="https://spideroak-my.sharepoint.com/personal/adam_spideroak-inc_com/_layouts/15/Doc.aspx?sourcedoc={87567509-4ff3-4f8a-9b07-d83091fdd34d}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="610px" height="367px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office Online</a>.</iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTogPtjRiF8IzEwLfpyRlMWPibTO2KWgkBzah06g_7cunD2XpsOFHKw7FFmmFE2UXkoXfk7E9xyoKNK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
