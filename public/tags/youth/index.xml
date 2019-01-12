@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Youth on The Liberty Ward News and Events</title>
+    <link>https://libertyward.org/tags/youth/</link>
+    <description>Recent content in Youth on The Liberty Ward News and Events</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jan 2019 10:16:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://libertyward.org/tags/youth/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Interfaith Youth Dance</title>
+      <link>https://libertyward.org/post/youth_dance_jan2019/</link>
+      <pubDate>Sat, 12 Jan 2019 10:16:46 +0000</pubDate>
+      
+      <guid>https://libertyward.org/post/youth_dance_jan2019/</guid>
+      <description>Interfaith Youth Dance
+Where: Liberty Stake Center
+When: January 19th, 8:00-11:00pm
+Be there!</description>
+    </item>
+    
+  </channel>
+</rss>

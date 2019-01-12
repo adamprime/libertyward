@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eq on The Liberty Ward News and Events</title>
+    <link>https://libertyward.org/tags/eq/</link>
+    <description>Recent content in Eq on The Liberty Ward News and Events</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jan 2019 10:36:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://libertyward.org/tags/eq/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Elders Quorum Presidency Training</title>
+      <link>https://libertyward.org/post/eq_training_jan2019/</link>
+      <pubDate>Sat, 12 Jan 2019 10:36:46 +0000</pubDate>
+      
+      <guid>https://libertyward.org/post/eq_training_jan2019/</guid>
+      <description>For all Elders Quorum Presidency members and secretaries.
+Where: Liberty Stake Center - Relief Society Room
+When: January 27th at 6:00am</description>
+    </item>
+    
+  </channel>
+</rss>
