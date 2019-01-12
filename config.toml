@@ -16,7 +16,7 @@ enableRobotsTXT = true
   filename = "sitemap.xml"
 
 [params]
-  favicon = "/images/favicon.ico"
+  favicon = "/favicon.ico"
   description = "A congregation of the Church of Jesus Christ of Latter-day Saints"
   facebook = ""
   twitter = ""
