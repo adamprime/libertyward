@@ -4,7 +4,7 @@ featured_image: '/images/kansas-city-temple-optimized-4.jpg'
 description: "A congregation of the Church of Jesus Christ of Latter-day Saints"
 ---
 
-![Attention](static/images/attention.gif)
+![Attention](/images/attention.gif)
 ## Because of inclement weather, all church meetings are canceled on Jan. 13, 2019.
 
 ---
