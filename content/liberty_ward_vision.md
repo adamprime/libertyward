@@ -10,9 +10,7 @@ menu:
 
 *from Bishop Wheeler, January 5, 2019*
 
-On January 13th we will hold our annual ward conference.  This is a great opportunity to hear and learn from our stake leaders.  The ward conference will be held during our normal church time 9:00-11:00 am at the Clayview Building.  I encourage all of you to attend.
- 
-Prior to the conference, I would encourage each of you to take some time to ponder, discuss, and determine what your family goals and plan will be to help the work of salvation in this year.  We have been asked by our area president to focus on the following 4 areas:
+Brothers and Sisters, I would encourage each of you to take some time to ponder, discuss, and determine what your family goals and plan will be to help the work of salvation in this year.  We have been asked by our area president to focus on the following 4 areas:
 
 * Missionary Work
 * Temple and Family History Work
