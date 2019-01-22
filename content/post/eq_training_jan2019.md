@@ -1,5 +1,5 @@
 ---
-title: "Elders Quorum Presidency Training"
+title: "Elders Quorum Presidency Training, Jan. 27"
 date: 2019-01-12T10:36:46
 draft: false
 description: "Elders Quorum Presidency Training"

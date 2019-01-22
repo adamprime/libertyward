@@ -8,3 +8,6 @@ description: "A congregation of the Church of Jesus Christ of Latter-day Saints"
 
 <script src="https://gist.github.com/adamprime/cf67957adb6d8fa752a0c90550b61e05.js"></script>
 
+---
+
+*Click the title of an annoncement below to see more information.*

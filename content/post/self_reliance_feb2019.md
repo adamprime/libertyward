@@ -1,5 +1,5 @@
 ---
-title: "Self Reliance Devotional"
+title: "Self Reliance Devotional, Feb. 17"
 date: 2019-01-12T10:39:46-06:00
 draft: false
 description: "Self Reliance Devotional"

@@ -1,9 +1,9 @@
 ---
+title: "Mormon Trail District 3rd Annual Recognition Dinner, March 9"
 date: 2019-01-20
 description: "Mormon Trails Recognition Dinner"
 featured_image: ""
 tags: [Boy Scouts]
-title: "Mormon Trail District 3rd Annual Recognition Dinner"
 ---
 
 All of the young men in our stake who earned their Eagle Scout Award during 2018 will be honored at this event and do not need to pay to attend. This is a great dinner and a wonderful way to recognize some of the long term scouters in our units who have spent so much time mentoring and supporting the young men in your units. Bro. Meade from the bishopric will be recognized.
