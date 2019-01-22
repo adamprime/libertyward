@@ -2,7 +2,7 @@
 date: 2019-01-20
 description: "2018 Stake History books available for purchase"
 featured_image: ""
-tags: [Youth]
+tags: [History]
 title: "2018 Stake History Books available for purchase"
 ---
 
