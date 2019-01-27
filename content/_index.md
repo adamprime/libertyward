@@ -10,4 +10,4 @@ description: "A congregation of the Church of Jesus Christ of Latter-day Saints"
 
 ---
 
-*Click the title of an annoncement below to see more information.*
+*Click the title of an announcement below to see more information.*
