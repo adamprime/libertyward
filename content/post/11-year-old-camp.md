@@ -1,11 +1,13 @@
 ---
-title: "11 Year Old Camp Canceled for 2019"
-date: 2018-12-30
+title: "2019 11 Year Old Scout Camp, June 14-15"
+date: 2019-01-27
 description: ""
 featured_image: ""
 tags: [Boy Scouts]
 ---
 
-Multi-stake 11 year old Scout Camp has been cancelled for 2019 due to the changes in the age to join Young Men's. Instead 11 year old boys are encouraged to join their LDS troop attending Scout Camp next summer. The Church has modified camping guidelines as follows:
+11-Year old Scout Camp is back for 2019! All 10 year olds turning 11 in 2019 between January 1st and June 15th should participate.
+
+In addition, the Church has modified camping guidelines as follows:
 
 With parents' approval, Deacons may now attend camps before their 12th birthday.
