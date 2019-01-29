@@ -1,5 +1,5 @@
 ---
-title: Liberty Ward Vision
+title: Ward Vision
 description: The 2019 Liberty Ward Mission and Vision
 type: page
 featured_image: "/images/kansas-city-temple-optimized-3.jpg"

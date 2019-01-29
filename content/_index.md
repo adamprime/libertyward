@@ -10,4 +10,8 @@ description: "A congregation of the Church of Jesus Christ of Latter-day Saints"
 
 ---
 
+[![Missionary Meal Sign Up](/images/button_missionary-meal-sign-up.png)](https://www.signupgenius.com/go/70a084aadad2da6f94-missionary)
+
+---
+
 *Click the title of an announcement below to see more information.*

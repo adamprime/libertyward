@@ -1,5 +1,5 @@
 ---
-title: About Our Ward
+title: About
 description: Contact Information and Leadership Callings
 type: page
 featured_image: "/images/kansas-city-temple-optimized-3.jpg"

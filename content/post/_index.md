@@ -1,5 +1,5 @@
 ---
-title: "Ward Announcements"
+title: "Announcements"
 date: 2019-01-01
 featured_image: "/images/kansas-city-temple-optimized-2.jpg"
 ---
@@ -8,4 +8,4 @@ You can find information from the Bishopric and ward auxiliaries here. Have some
 
 ---
 
-*Click the title of an annoncement below to see more information.*
+*Click the title of an announcement below to see more information.*
