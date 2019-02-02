@@ -3,7 +3,7 @@ title: "Stake Missionary Prep Class, Feb. 10"
 date: 2019-02-02    
 description: "Stake Missionary Prep Class"
 featured_image: ""
-tags: ["Missionary Prep"]
+tags: ["Missionary Prep", "Youth"]
 ---
 
 ![February 2019 Missionary Prep Class](/images/posts/mp_jan2019-optimized.jpeg)
