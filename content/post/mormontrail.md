@@ -1,6 +1,7 @@
 ---
 title: "Mormon Trail District 3rd Annual Recognition Dinner, March 9"
 date: 2019-01-20
+draft: true
 description: "Mormon Trails Recognition Dinner"
 featured_image: ""
 tags: [Boy Scouts]

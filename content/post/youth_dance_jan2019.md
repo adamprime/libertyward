@@ -1,7 +1,7 @@
 ---
 title: "Interfaith Youth Dance Jan. 19th"
 date: 2019-01-12T10:16:46
-draft: false
+draft: true
 description: "Interfaith Youth Dance"
 featured_image: ""
 tags: [Youth]

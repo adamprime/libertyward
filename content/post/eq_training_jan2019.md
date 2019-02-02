@@ -1,7 +1,7 @@
 ---
 title: "Elders Quorum Presidency Training, Jan. 27"
 date: 2019-01-12T10:36:46
-draft: false
+draft: true
 description: "Elders Quorum Presidency Training"
 featured_image: ""
 tags: [EQ]

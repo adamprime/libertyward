@@ -1,6 +1,7 @@
 ---
 date: 2019-01-26
 description: "Mid-Singles Activities Jan. 2019"
+draft: true
 featured_image: ""
 tags: [Mid-Singles]
 title: "Mid-Singles Activities for January 2019"

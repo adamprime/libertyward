@@ -1,9 +1,10 @@
 ---
-date: 2019-01-18
+title: "Ward Conference Schedule, March 17"
+date: 2019-01-29
+draft: false
 description: ""
 featured_image: ""
 tags: [Announcements]
-title: "Ward Conference Schedule, March 17"
 ---
 
 ## The annual conference of the Liberty Ward will be held March 17, 2019
