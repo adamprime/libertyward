@@ -1,7 +1,7 @@
 ---
 title: "Rock'n Roll Valentines Dance, Feb. 8"
 date: 2019-01-30
-draft: false
+draft: true
 description: "Stake Valentine's Dance for adults"
 featured_image: ""
 tags: [RS, EQ]

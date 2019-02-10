@@ -14,4 +14,6 @@ All Mia Maids, Teacher, Laurels, and Priests are invited to attend.  **Refreshme
 
 Where: Liberty Stake Center RS Room
 
-When: Feb. 10, 7:30-8:30 am
+When: Feb. 10
+
+**Updated Time: 4 pm**

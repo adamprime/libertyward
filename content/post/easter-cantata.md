@@ -1,5 +1,5 @@
 ---
-title: "Seeking the Christ: An Easter Cantata"
+title: "Seeking the Christ: An Easter Cantata, April 19-20"
 date: 2019-02-01  
 description: "Far West Stake Easter Cantata"
 featured_image: ""

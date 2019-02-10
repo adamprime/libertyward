@@ -1,5 +1,5 @@
 ---
-title: "Youth Fundraiser"
+title: "Youth Fundraiser, March 1"
 date: 2019-02-10T08:17:28-06:00
 draft: false
 description: "Semi-annual fundraiser for Boy Scout and Young Women activities"
