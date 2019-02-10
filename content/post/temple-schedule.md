@@ -10,3 +10,5 @@ tags: [Temple]
 ![2019 Temple Schedule](/images/posts/2019-temple-schedule-optimized.png)
 
 *Please contact the Temple at 816-413-1430 to schedule appointments for living ordinances.*
+
+The master schedule is always available on [LDS.org](https://www.lds.org/temples/details/kansas-city-missouri-temple?lang=eng).
