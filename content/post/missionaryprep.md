@@ -6,7 +6,7 @@ featured_image: ""
 tags: ["Missionary Prep", "Youth"]
 ---
 
-![February 2019 Missionary Prep Class](/images/posts/mp_jan2019-optimized.jpeg)
+![February 2019 Missionary Prep Class](/images/posts/mp_feb2019.jpg)
 
 ## New Age Range Invited!
 
