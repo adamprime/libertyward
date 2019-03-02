@@ -6,7 +6,7 @@ description: "A congregation of the Church of Jesus Christ of Latter-day Saints"
 
 ## Calendar and upcoming events
 
-<script src="https://gist.github.com/adamprime/cf67957adb6d8fa752a0c90550b61e05.js"></script>
+<script src="https://gist.github.com/adamprime/217b95fddee3ad7f36ad7a6d0324f1df.js"></script>
 
 ---
 
