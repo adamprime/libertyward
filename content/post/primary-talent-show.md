@@ -5,6 +5,7 @@ draft: false
 description: "Liberty Ward Primary Talent Show!"
 featured_image: ""
 tags: ["Primary"]
+weight: 1
 ---
 
 {{< youtube lj7r6rYYHbk >}}

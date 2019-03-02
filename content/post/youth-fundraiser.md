@@ -1,10 +1,11 @@
 ---
-title: "Youth Fundraiser, March 1"
+title: "Youth Fundraiser, April 5"
 date: 2019-02-26
 draft: false
 description: "Semi-annual fundraiser for Boy Scout and Young Women activities"
 featured_image: ""
 tags: ["Announcements", "Youth"]
+weight: 13
 ---
 
 ## Enjoy a delicious dinner and bid on goods and service from the youth in this fun, family evening

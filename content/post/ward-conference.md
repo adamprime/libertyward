@@ -5,6 +5,7 @@ draft: false
 description: ""
 featured_image: ""
 tags: [Announcements]
+weight: 8
 ---
 
 ## The annual conference of the Liberty Ward will be held March 17, 2019

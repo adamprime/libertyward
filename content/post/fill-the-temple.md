@@ -4,6 +4,7 @@ date: 2019-02-02
 description: "Fill the Temple RS and YW Activity"
 featured_image: ""
 tags: ["RS"]
+weight: 12
 ---
 
 Every member of the Relief Society and Young Women are invited to participate in this 2-day event by indexing, doing family history, and performing temple work. Please invite those to whom you minister to join in this event.  

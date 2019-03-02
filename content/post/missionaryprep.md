@@ -1,13 +1,14 @@
 ---
-title: "Stake Missionary Prep Class, Feb. 10"
+title: "Stake Missionary Prep Class, March 10"
 date: 2019-02-02    
 description: "Stake Missionary Prep Class"
 featured_image: ""
 tags: ["Missionary Prep", "Youth"]
-draft: true
+draft: false
+weight: 4
 ---
 
-![February 2019 Missionary Prep Class](/images/posts/mp_feb2019.jpg)
+![March 2019 Missionary Prep Class](/images/posts/mission-prep-march2019.jpeg)
 
 ## New Age Range Invited!
 
@@ -15,6 +16,4 @@ All Mia Maids, Teacher, Laurels, and Priests are invited to attend.  **Refreshme
 
 Where: Liberty Stake Center RS Room
 
-When: Feb. 10
-
-**Updated Time: 4 pm**
+When: March 10, 2019, 7:30 AM
