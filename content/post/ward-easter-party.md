@@ -5,6 +5,7 @@ draft: false
 description: ""
 featured_image: ""
 tags: ["Announcements", "Primary"]
+weight: 16
 ---
 
 The 2019 Ward Easter Party is coming! Activities include an Easter egg hunt, games, relays, pie contest, and a picnic. The activity will start with a Spiritual Message at the beginning.

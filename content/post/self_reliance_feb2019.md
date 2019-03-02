@@ -1,7 +1,7 @@
 ---
 title: "Self Reliance Devotional, Feb. 17"
 date: 2019-01-30
-draft: false
+draft: true
 description: "Self Reliance Devotional"
 featured_image: ""
 tags: ["Self Reliance"]
