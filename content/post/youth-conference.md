@@ -6,5 +6,5 @@ tags: ["Youth"]
 weight: 22
 ---
 
-All Mia Maids/Teachers should register with this link: https://goo.gl/forms/VMTIXRAVGyaXPL9I2
+All Mia Maids, Teachers, Laurels, and Priests should register with this link: https://goo.gl/forms/VMTIXRAVGyaXPL9I2
 
