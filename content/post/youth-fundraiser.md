@@ -18,4 +18,4 @@ Enjoy a home cooked dinner for $5 per person or $25 per family. A silent auction
 
 Have an item or service you would like to donate? Please email Bro. Dawson at libertywardclerk@gmail.com and he will make sure it is included! 
 
-[![Download Button](/images/posts/button_download-printable-flyer.png)](static/images/posts/fundraiser-flyer-single.pdf)
+[![Download Button](/images/posts/button_download-printable-flyer.png)](/images/posts/fundraiser-flyer-single.pdf)
