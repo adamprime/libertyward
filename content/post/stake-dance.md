@@ -11,3 +11,5 @@ St. Patrick’s Day theme. Come wearing green! See attached flyer.
 Liberty Stake Center<br>
 Saturnday, March 16th <br>
 8:00-11:00pm
+
+![March Multi Stake Dance](/images/posts/march-stake-dance-optimized.jpg)

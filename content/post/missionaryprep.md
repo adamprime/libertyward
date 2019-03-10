@@ -4,7 +4,7 @@ date: 2019-02-02
 description: "Stake Missionary Prep Class"
 featured_image: ""
 tags: ["Missionary Prep", "Youth"]
-draft: false
+draft: true
 weight: 4
 ---
 

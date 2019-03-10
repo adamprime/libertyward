@@ -1,7 +1,7 @@
 ---
 title: "Primary Talent Show, March 9"
 date: 2019-02-26
-draft: false
+draft: true
 description: "Liberty Ward Primary Talent Show!"
 featured_image: ""
 tags: ["Primary"]
