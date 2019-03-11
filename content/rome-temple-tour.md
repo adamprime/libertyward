@@ -51,3 +51,9 @@ Other interesting tweets from the Rome trip:
 {{< tweet 1104417317423767552 >}}
 
 {{< tweet 1104828763445977088 >}}
+
+{{< tweet 1104703263440494593 >}}
+
+![apostles in white](https://photos.thechurchnews.com/file/5ecbfe1051/dnews/galleryImageLarge/every-member-of-the-first-presidency-and-the-quorum-of.jpg)
+
+[Church News story about this photo](https://www.thechurchnews.com/leaders-and-ministry/2019-03-11/iconic-photographs-of-first-presidency-quorum-of-the-twelve-apostle-symbolize-their-unified-testimony-of-jesus-christ-49196)
