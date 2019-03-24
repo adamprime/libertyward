@@ -1,7 +1,7 @@
 ---
 title: "Thursday, 3.14, Elders Quorum Pi Day Activity"
 date: 2019-03-02T14:20:00-06:00
-draft: false
+draft: true
 description: 
 tags: [EQ]
 weight: 5

@@ -1,7 +1,7 @@
 ---
 title: "Ward Conference Schedule, March 17"
 date: 2019-01-29
-draft: false
+draft: true
 description: ""
 featured_image: ""
 tags: [Announcements]

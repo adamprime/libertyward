@@ -1,7 +1,7 @@
 ---
 title: "Multi Stake Dance, March 16"
 date: 2019-03-02T14:24:02-06:00
-draft: false
+draft: true
 tags: ["Youth"]
 weight: 7
 ---
