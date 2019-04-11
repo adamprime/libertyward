@@ -8,7 +8,12 @@ tags: ["Announcements", "Primary"]
 weight: 16
 ---
 
-The 2019 Ward Easter Party is coming! Activities include an Easter egg hunt, games, relays, pie contest, and a picnic. The activity will start with a Spiritual Message at the beginning.
+## "A Classic Easter"
+
+The 2019 Ward Easter Party is coming! Activities include 1950's style activities such as an Easter egg hunt, games, relays, a pie contest, and a picnic. 
+
+The day will start with everyone bringing a picnic lunch and blanket for their family, fun relay games of all ages, pie tasting and contest, and ending with a spiritual thought about Easter and an egg hunt.
 
 - Date: April 20, 2019
 - Time: 10 am - 12 pm 
+- Place: The Bennett Park shelter near the Clayview Building
