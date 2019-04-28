@@ -1,7 +1,7 @@
 ---
 title: "2019 KC Regional Singles Conference, April 26-27"
 date: 2019-01-27
-draft: false
+draft: true
 description: "2019 KC Regional Singles Conference, April 26-27"
 featured_image: ""
 tags: [Singles]

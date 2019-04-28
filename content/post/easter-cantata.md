@@ -5,6 +5,7 @@ description: "Far West Stake Easter Cantata"
 featured_image: ""
 tags: ["Music"]
 weight: 15
+draft: true
 ---
 
 ![Easter Cantata Poster](/images/posts/easter_cantata-optimized.png)

@@ -1,7 +1,7 @@
 ---
 title: "Ward Easter Party, April 20"
 date: 2019-02-10T08:15:12-06:00
-draft: false
+draft: true
 description: ""
 featured_image: ""
 tags: ["Announcements", "Primary"]
