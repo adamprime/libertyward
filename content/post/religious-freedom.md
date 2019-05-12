@@ -1,5 +1,5 @@
 ---
-title: "Religious Freedom Fireside: The Doctrine and Future, May 29, 2019"
+title: "Religious Freedom Fireside: The Doctrine and Future, May 29"
 date: 2019-05-12T08:35:35-05:00
 draft: false
 tags: ["Announcements"]

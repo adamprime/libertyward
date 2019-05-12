@@ -1,5 +1,5 @@
 ---
-title: "Primary Temple Activity, May 18, 2019"
+title: "Primary Temple Activity, May 18"
 date: 2019-05-12T08:37:27-05:00
 draft: false
 tags: ["Primary"]
