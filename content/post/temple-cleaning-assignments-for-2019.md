@@ -12,3 +12,5 @@ weight: 4
 
 ---
 The Liberty Ward's cleaning assignments at the Kansas City Missouri temple are listed below.
+
+![](/uploads/Screen Shot 2019-05-18 at 7.39.50 AM.png)
