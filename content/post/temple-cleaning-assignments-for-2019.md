@@ -9,7 +9,6 @@ description: This is a list of all temple cleaning assignments for our ward thro
   the rest of 2019
 featured_image: ''
 weight: 3
-draft: true
 
 ---
 The Liberty Ward's cleaning assignments at the Kansas City Missouri temple are listed below.
