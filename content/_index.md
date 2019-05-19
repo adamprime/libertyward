@@ -10,7 +10,7 @@ description: A congregation of the Church of Jesus Christ of Latter-day Saints
 
 ***
 
-[![Missionary Meal Sign Up](/images/button_missionary-meal-sign-up.png)](https://www.signupgenius.com/go/70a084aadad2da6f94-missionary)<br>
+[![Missionary Meal Sign Up](/images/button_missionary-meal-sign-up.png)](https://calendar.google.com/calendar/selfsched?sstoken=UUsxclhKMDZhU0VIfGRlZmF1bHR8NzIwYjA3MTIxNTM2ZDdhNTVkMWFjZjYxOTE3OTg4Mjc)<br>
 [Click to sign up and feed the missionaries 🍱](https://calendar.google.com/calendar/selfsched?sstoken=UUsxclhKMDZhU0VIfGRlZmF1bHR8NzIwYjA3MTIxNTM2ZDdhNTVkMWFjZjYxOTE3OTg4Mjc)
 
 ***
