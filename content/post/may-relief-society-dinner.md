@@ -1,7 +1,7 @@
 ---
 tags:
 - Relief Society
-title: May Relief Society Dinner, May 23
+title: May Relief Society Evening, May 23
 date: 2019-05-16T05:00:00.000+00:00
 url: may-rs-dinner
 description: Join us for the May Relief Society Evening. Demonstrations on being prepared
