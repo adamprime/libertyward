@@ -8,6 +8,7 @@ description: Join us for the May Relief Society Evening. Demonstrations on being
   in an emergency; home, important papers, 72-hour kit.
 featured_image: ''
 weight: 1
+draft: true
 
 ---
 ![](/uploads/RSmay-1.png)
