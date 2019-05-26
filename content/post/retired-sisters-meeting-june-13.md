@@ -6,8 +6,7 @@ date: 2019-05-25T05:00:00+00:00
 url: retired-sisters-play-time
 description: Discussion and brainstorming session. Come and bring a friend.
 featured_image: "/uploads/Retired Sister Mtg.jpg"
-weight: 
-draft: true
+weight: 3.5
 
 ---
 Would you like to get together on a “regular” basis to do service, attend the temple, socialize, walk, bike, ???? What shoes do you want to wear?  
