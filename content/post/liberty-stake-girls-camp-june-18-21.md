@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+- YW
 title: Liberty Stake Girls' Camp, June 18-21
 date: 2019-05-25T05:00:00+00:00
 url: girls-camp
