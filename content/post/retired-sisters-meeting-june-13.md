@@ -13,7 +13,7 @@ Would you like to get together on a “regular” basis to do service, attend th
 
 We are having an “organization” meeting where we will be a discussing and brainstorming to see if this type of group would serve the interests/needs of the sisters in our stake and what you would want to do as a group.  Come and Bring a Friend.
 
-Location:Liberty Stake Center  
+Location: Liberty Stake Center  
 Date and time: June 13, 10:00-11:00am
 
 ![retired sisters meeting liberty stake](/uploads/Retired Sister Mtg.jpg)
