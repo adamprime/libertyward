@@ -5,7 +5,7 @@ date: 2019-05-19T05:00:00+00:00
 url: cub-scout-camp
 description: This year's cub scout day camp will be held at Platte County Fairgrounds
 featured_image: ''
-weight: 5
+weight: 6
 
 ---
 Platte County Fairgrounds in Tracy, MO
