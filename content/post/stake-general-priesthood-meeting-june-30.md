@@ -7,7 +7,7 @@ date: 2019-05-25T05:00:00+00:00
 url: stake-general-priesthood
 description: Information about the upcoming Stake General Priesthood meeting
 featured_image: ''
-weight: 6
+weight: 7
 
 ---
 Brethren who attend this meeting include the stake presidency; high council; stake clerk; stake executive secretary; stake Young Men presidency; bishoprics; ward clerks; ward executive secretaries; elders quorum presidencies and secretaries; and ward Young Men presidencies.
