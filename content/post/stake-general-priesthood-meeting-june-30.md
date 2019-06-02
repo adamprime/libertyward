@@ -2,7 +2,7 @@
 tags:
 - EQ
 - Priesthood
-title: Stake General Priesthood Meeting, June 30
+title: Stake Priesthood Leadership Meeting, June 30
 date: 2019-05-25T05:00:00+00:00
 url: stake-general-priesthood
 description: Information about the upcoming Stake General Priesthood meeting
