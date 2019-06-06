@@ -6,7 +6,7 @@ featured_image: ''
 tags:
 - Boy Scouts
 - Youth
-weight: "4"
+weight: "3"
 
 ---
 11-Year old Scout Camp is back for 2019! All 10 year olds turning 11 in 2019 between January 1st and June 15th should participate.
