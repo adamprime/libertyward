@@ -6,7 +6,7 @@ date: 2019-05-25T05:00:00+00:00
 url: girls-camp
 description: Information on this year's Stake Girls' Camp
 featured_image: ''
-weight: 5
+weight: 4
 
 ---
 Girls Camp will be held at Knob Noster- Shawnee Campsite. The registration deadline is April 21st and they can register at this link: [https://goo.gl/forms/0BQXj5c5CId5RS6n1](https://goo.gl/forms/0BQXj5c5CId5RS6n1 "https://goo.gl/forms/0BQXj5c5CId5RS6n1") 
